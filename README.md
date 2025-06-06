@@ -23,7 +23,3 @@
 <a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Saharat Kaneunghade&show_icons=true&locale=en" alt="Saharat Kaneunghade" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saharat Kaneunghade&" alt="Saharat Kaneunghade" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saharat Kaneunghade&show_icons=true&locale=en&layout=compact" alt="Saharat Kaneunghade" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saharat Kaneunghade" alt="Saharat Kaneunghade" /></a></p>
